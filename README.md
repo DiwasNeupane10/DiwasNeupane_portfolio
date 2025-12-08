@@ -54,7 +54,7 @@ I am a **Computer Science graduate** specializing in **Natural Language Processi
 ### 1. 📝 Text Summarization Using LSA
 *Technologies: Python, Flask, MySQL, TF-IDF, SVD*
 
-[![GitHub](https://img.shields.io/badge/View%20Code-GitHub-black?style=flat&logo=github)]({https://github.com/DiwasNeupane10/Text-Summarization-Using-LSA)
+[![GitHub](https://img.shields.io/badge/View%20Code-GitHub-black?style=flat&logo=github)](https://github.com/DiwasNeupane10/Text-Summarization-Using-LSA)
 
 Extractive text summarization system using Latent Semantic Analysis with adjustable summary length.
 
