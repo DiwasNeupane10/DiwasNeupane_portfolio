@@ -9,9 +9,8 @@
 
 </div>
 <div align="center">
-  <img src="images/pfp.png" alt="Diwas Neupane" width="200" height="200" style="border-radius: 50%; border: 3px solid #4A90E2;">
+  <img src="images/pfp.png" alt="Diwas Neupane" width="200" height="200" style="border-radius: 50%;">
 </div>
-
 ## 🚀 About Me
 
 I am a **Computer Science graduate** specializing in **Natural Language Processing** and **Model Fine-tuning**, with hands-on experience building **RAG systems**, training open-source LLMs, and developing production-ready Flask-based ML APIs. I am passionate about building practical AI solutions that solve real-world problems.
