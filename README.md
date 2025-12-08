@@ -9,7 +9,7 @@
 
 </div>
 <div align="center">
-  <img src="images/pfp.png" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
+  <img src="images/pfp.png" alt="Diwas Neupane" width="200" height="200" style="border-radius: 50%; border: 3px solid #4A90E2;">
 </div>
 
 ## 🚀 About Me
