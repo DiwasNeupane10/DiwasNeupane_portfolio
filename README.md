@@ -8,7 +8,9 @@
 [![Email](https://img.shields.io/badge/Email-neupaned10%40gmail.com-red?style=flat&logo=gmail)](mailto:neupaned10@gmail.com)
 
 </div>
-![LinkedIn Dashboard](/images/pfp.png)
+<div align="center">
+  <img src="images/pfp.png" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
+</div>
 
 ## 🚀 About Me
 
