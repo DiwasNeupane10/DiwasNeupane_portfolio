@@ -1,5 +1,6 @@
 # Hi there, I'm Diwas Neupane 👋
 
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Diwas%20Neupane-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/diwas-neupane-198909352)
@@ -7,6 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-neupaned10%40gmail.com-red?style=flat&logo=gmail)](mailto:neupaned10@gmail.com)
 
 </div>
+![LinkedIn Dashboard](/images/pfp.png)
 
 ## 🚀 About Me
 
